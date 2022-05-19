@@ -16,7 +16,7 @@ We will create an application using the github public api.
 
 ### Preview
 
-Print of the finished project.
+Print of the first version of project.
 
 ![plot](./image/snapshot-1.png)
 
