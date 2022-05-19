@@ -13,6 +13,7 @@ export const Wrapper = styled.div`
     height: 44px;
     padding: 8px;
     font-weight: 500;
+    background-color: white;
   }
 
   button {

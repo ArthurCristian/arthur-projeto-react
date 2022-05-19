@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
   display: flex;
   align-items: flex-start;
+  
 `;
 
 export const WrapperInfoUser = styled.div`
@@ -12,6 +13,7 @@ export const WrapperInfoUser = styled.div`
   justify-content: space-between;
   margin-left: 8px;
   height: 200px;
+
 
   h1 {
     font-size: 32px;
@@ -42,6 +44,7 @@ export const WrapperUserGeneric = styled.div`
   display: flex;
   align-items: center;
   margin-top: 8px;
+  
 
   h3 {
     margin-right: 8px;
@@ -56,6 +59,7 @@ export const WrapperUserGeneric = styled.div`
 
 export const WrapperImage = styled.img`
   border-radius: 50%;
+  border-width: 3px;
   width: 200px;
   margin: 8px;
 `;
